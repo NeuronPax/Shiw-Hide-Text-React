@@ -1,0 +1,20 @@
+body {
+    background: #424e6e;
+}
+.text_style {
+    background: black;
+    color: white;
+    font-size: 72px;
+    text-align: center;
+    font-family: 'Sigmar One';
+}
+.button_style {
+    border-radius: 20px;
+    font-size: 36px;
+    padding: 10px 30px;
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Sigmar One';
+}
